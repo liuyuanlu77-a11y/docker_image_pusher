@@ -7,3 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 xiaozhu674/gameservermanager:latest
 m.daocloud.io/docker.io/soulter/astrbot:latest
+mlikiowa/napcat-docker:latest
