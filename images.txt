@@ -9,3 +9,4 @@ xiaozhu674/gameservermanager:latest
 m.daocloud.io/docker.io/soulter/astrbot:latest
 mlikiowa/napcat-docker:latest
 filebrowser/filebrowser
+docker.cnb.cool/gscore-mirror/gsuid_core:latest
