@@ -11,3 +11,4 @@ mlikiowa/napcat-docker:latest
 filebrowser/filebrowser
 docker.cnb.cool/gscore-mirror/gsuid_core:latest
 threatbook/hfish-server:latest
+emqx/emqx:latest
