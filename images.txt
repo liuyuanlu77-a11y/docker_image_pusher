@@ -13,3 +13,4 @@ docker.cnb.cool/gscore-mirror/gsuid_core:latest
 threatbook/hfish-server:latest
 emqx/emqx:latest
 emqx/mqttx-cli:latest
+emqx/mqttx-web:latest
