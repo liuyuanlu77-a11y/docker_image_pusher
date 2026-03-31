@@ -7,5 +7,6 @@ mlikiowa/napcat-docker:latest
 ollama/ollama
 mysql:latest
 ollama/ollama:0.18.3
+soulter/astrbot:4.22.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
