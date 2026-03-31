@@ -4,5 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ollama/ollama:0.19.0
 soulter/astrbot:v4.22.2
+snowdreamtech/frpc:0.68.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
