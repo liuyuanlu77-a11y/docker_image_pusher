@@ -5,6 +5,6 @@ xhofe/alist:latest
 ollama/ollama:0.19.0
 soulter/astrbot:v4.22.2
 snowdreamtech/frpc:0.68.0
-ghcr.io/open-webui/open-webui:latest
+ghcr.io/open-webui/open-webui:git-33e54a9
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
