@@ -11,6 +11,6 @@ linuxserver/nextcloud:latest
 1panel/openresty:1.27.1.2-5-1-focal
 ghcr.io/open-webui/open-webui:v0.8.12
 drfccv/12306-mcp-server:latest
-binaryify/netease_cloud_music_api:latest
+binaryify/netease_cloud_music_api:4.32.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
