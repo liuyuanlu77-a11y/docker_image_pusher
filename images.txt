@@ -12,6 +12,7 @@ xhofe/alist:latest
 # ghcr.io/open-webui/open-webui:v0.8.12
 # drfccv/12306-mcp-server:latest
 # binaryify/netease_cloud_music_api:@4.32.0
-mlikiowa/napcat-docker:latest
+# mlikiowa/napcat-docker:latest
+1panel:v2.1.13
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
