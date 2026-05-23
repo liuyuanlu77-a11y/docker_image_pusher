@@ -13,6 +13,6 @@ xhofe/alist:latest
 # drfccv/12306-mcp-server:latest
 # binaryify/netease_cloud_music_api:@4.32.0
 mlikiowa/napcat-docker:latest
-# 1panel:2.1.13
+1panel:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
