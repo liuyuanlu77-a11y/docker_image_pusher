@@ -10,7 +10,7 @@ xhofe/alist:latest
 # linuxserver/nextcloud:latest
 # 1panel/openresty:1.27.1.2-5-1-focal
 # ghcr.io/open-webui/open-webui:v0.8.12
- drfccv/12306-mcp-server:latest
+drfccv/mcp-server-12306:latest
 # binaryify/netease_cloud_music_api:@4.32.0
 # mlikiowa/napcat-docker:latest
 # moelin/1panel:latest
