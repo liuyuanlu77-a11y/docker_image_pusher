@@ -3,7 +3,7 @@
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 # ollama/ollama:0.19.0
-# soulter/astrbot:v4.25.1
+ soulter/astrbot:v4.25.5
 # snowdreamtech/frpc:0.68.0
 # ghcr.io/open-webui/open-webui:git-33e54a9
 # moelin/1panel:latest
@@ -15,7 +15,7 @@
 # mlikiowa/napcat-docker:latest
 # moelin/1panel:latest
 # redis:latest
-nextcloud:33.0.5
+# nextcloud:33.0.5
 # mariadb:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
