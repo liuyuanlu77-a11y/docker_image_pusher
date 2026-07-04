@@ -12,7 +12,7 @@
 # ghcr.io/open-webui/open-webui:v0.8.12
 # drfccv/mcp-server-12306:latest
 # binaryify/netease_cloud_music_api:@4.32.0
- mlikiowa/napcat-docker:v4.18.4
+ mlikiowa/napcat-docker:v4.18.8
 # moelin/1panel:latest
 # redis:latest
 # nextcloud:33.0.5
