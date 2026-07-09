@@ -14,8 +14,8 @@
 # binaryify/netease_cloud_music_api:@4.32.0
 # mlikiowa/napcat-docker:v4.18.8
 # moelin/1panel:latest
-# redis:latest
- nextcloud:34.0.1
+ redis:latest
+# nextcloud:34.0.1
 # mariadb:11.8
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
