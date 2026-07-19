@@ -4,7 +4,7 @@
 # xhofe/alist:latest
 # ollama/ollama:0.19.0
 # soulter/astrbot:v4.26.4
-# snowdreamtech/frpc:0.68.0
+snowdreamtech/frpc:0.69.1
 # ghcr.io/open-webui/open-webui:git-33e54a9
 # moelin/1panel:latest
 # linuxserver/nextcloud:latest
@@ -14,7 +14,7 @@
 # binaryify/netease_cloud_music_api:@4.32.0
 # mlikiowa/napcat-docker:v4.18.8
 # moelin/1panel:latest
- redis:8.8.0
+# redis:8.8.0
 # nextcloud:34.0.1
 # mariadb:11.8
 #支持指定架构
